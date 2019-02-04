@@ -25,6 +25,3 @@ Charts: D3. js
 CSS: bootswatch/minty
 MQTT Broker: broker.hivemq.com
 
-Screenshot
-----------
-![screenshot.png](./screenshot.png "logo")
