@@ -18,6 +18,11 @@ Installation Steps:
 4. finally start the angular server as-
 `ng serve`
 
+Single User Details
+-------------------
+username:`kaushal`
+password:`12345678`
+
 Libraries Details
 -----------------
 
